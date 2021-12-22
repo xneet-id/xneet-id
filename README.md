@@ -9,3 +9,4 @@ xneet-id/xneet-id is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <b><a href="https://www.xneet.id/">Xneet.id</a></b> merupakan media informasi yang membahas tentang aplikasi, komputer, game, sosial media & blog.
+Putner <b><a href="https://manseper.blogspot.com/">Manseper</a></b>
